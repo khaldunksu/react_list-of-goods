@@ -12,6 +12,7 @@ body {
   display: flex;
   justify-content: center;
 }
+
 button {
   width: 100px;
   height: 70px;
@@ -23,10 +24,12 @@ button {
   font-weight: bold;
   font-size: 16px;
 }
+
 button:hover {
   color: bisque;
   background-color: cornflowerblue;
 }
+
 .select {
   margin-left: 20px;
   border: none;
@@ -35,5 +38,3 @@ button:hover {
 ul {
   font-style: italic;
 }
-
-
